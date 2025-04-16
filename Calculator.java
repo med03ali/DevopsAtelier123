@@ -10,5 +10,6 @@ public class Calculator {
         System.out.println("5 + 3 = " + calc.add(5, 3));
         System.out.println("wa siiiiiiiiiir");
         System.out.println("wa siiiiiiiiiir mergi");
+        System.out.println("wa siiiiiiiiiir rebaaase");
     }
 }
